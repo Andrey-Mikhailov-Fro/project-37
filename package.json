@@ -1,0 +1,20 @@
+{
+  "name": "project-37",
+  "version": "1.0.0",
+  "description": "Simple tests managment app",
+  "main": "/vite-project/src/main.tsx",
+  "scripts": {
+    "server": "cd frontend-interview-task-api-master && npm run start",
+    "build": "cd vite-project && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrey-Mikhailov-Fro/project-37.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrey-Mikhailov-Fro/project-37/issues"
+  },
+  "homepage": "https://github.com/Andrey-Mikhailov-Fro/project-37#readme"
+}
